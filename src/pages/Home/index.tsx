@@ -39,7 +39,7 @@ const Home: React.FC = () => {
         <Title>Uma verdadeira experiência Italiana.</Title>
       </Container>
       <NavigationButton onPress={() => handleNavigate()}>
-        <ButtonText>Entrar no Restaurant</ButtonText>
+        <ButtonText>Entrar no Restaurante</ButtonText>
         <IconContainer>
           <Icon name="log-in" size={24} color="#7A1818" />
         </IconContainer>
